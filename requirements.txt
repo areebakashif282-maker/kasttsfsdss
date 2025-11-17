@@ -1,0 +1,4 @@
+# Viral Content Automation System
+# Required Python packages
+
+anthropic>=0.25.0

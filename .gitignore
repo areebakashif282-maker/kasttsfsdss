@@ -1,0 +1,56 @@
+# Viral Content Automation - Git Ignore
+
+# API Keys and Secrets
+.env
+*.key
+secrets.txt
+
+# Output directories
+viral_content_output/
+1_titles/
+2_outlines/
+3_scripts/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+temp/
+tmp/
